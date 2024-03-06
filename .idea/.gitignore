@@ -1,7 +1,0 @@
-# デフォルトの無視対象ファイル
-/*
-# エディターベースの HTTP クライアントリクエスト
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
